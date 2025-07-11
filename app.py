@@ -40,10 +40,10 @@ HTML_PAGE = """
         {% endif %}
 
         <h2>Hizmetler</h2>
-        <ul>
-            <li>Instagram Takipçi - 10₺ / 1000</li>
-            <li>Instagram Beğeni - 5₺ / 1000</li>
-            <li>YouTube İzlenme - 8₺ / 1000</li>
+        <ul> GARANTİLİDİR DÜŞME YOKTUR DÜŞÜŞ OLURSA INSTAGRAM @_pars.bas.krc.kimsebasgoz_ E YAZIN
+            <li>Instagram Takipçi - 250 TL / 1000</li>
+            <li>Instagram Beğeni - 80 TL / 1000</li>
+            <li>TikTok Takipçi - 325 TL / 1000</li>
         </ul>
 
         <h2>Sipariş Formu</h2>
@@ -52,7 +52,7 @@ HTML_PAGE = """
             <select name="service" required>
                 <option value="Instagram Takipçi">Instagram Takipçi</option>
                 <option value="Instagram Beğeni">Instagram Beğeni</option>
-                <option value="YouTube İzlenme">YouTube İzlenme</option>
+                <option value="TikTok Takipçi">TikTok Takipçi</option>
             </select>
 
             <label>Link / Kullanıcı Adı:</label>
